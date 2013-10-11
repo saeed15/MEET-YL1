@@ -1,1 +1,6 @@
-print "lap2"
+
+
+
+a=raw_input("give me anumber")
+print a 
+
