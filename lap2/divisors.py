@@ -5,4 +5,4 @@ def divisor(n) :
 
 if __name__=="__main__"   :
 	y=int(raw_input("give me a number"))
-	divisor(y)
+	divisor(y) 
