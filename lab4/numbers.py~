@@ -1,0 +1,13 @@
+class integer(object):
+	def __init__(self,num=0):
+		self.number = num
+	def display(self):
+		print self.number
+if __name__=="__main__":
+	s = integer(4)
+	s.display()
+
+if s > 0 :
+	print "positive"
+else: 
+	print "negative"
